@@ -1,0 +1,15 @@
+@import "../css/fonts.css";
+
+@font-face {
+   font-family: "Caviar Dreams";
+   src: url('../fonts/CaviarDreams.ttf');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "Stark";
+   src: url('../fonts/Stark.OTF');
+   font-weight: normal;
+   font-style: normal;
+}
