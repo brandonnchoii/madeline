@@ -1,0 +1,25 @@
+body {
+	background-color: #FFFFFF;
+}
+
+#header {
+
+}
+
+#name-container {
+	margin-top: 8%;
+	text-align: center;
+}
+
+#name {
+	font-size: 475%;
+	color: black;
+	font-family: "Caviar Dreams";
+	border-top: solid 2px;
+	border-bottom: solid 2px;
+	padding: 2% 0 2% 0;
+}
+	#name:hover{
+		color: inherit;
+		text-decoration: none;
+	}
