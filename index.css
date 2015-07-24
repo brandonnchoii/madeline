@@ -5,8 +5,13 @@ body {
 }
 
 #header {
-	background-color: #556AED;
+	background-color: white;
 	color: white;
+}
+
+.block-photo {
+	width: 100%;
+	height: auto;
 }
 
 #name-container {
@@ -16,7 +21,7 @@ body {
 }
 
 #name {
-	font-size: 550%;
+	font-size: 575%;
 	color: inherit;
 	font-family: "Caviar Dreams";
 	border-top: solid 2px;
