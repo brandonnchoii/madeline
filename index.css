@@ -23,9 +23,7 @@ body {
 #name {
 	font-size: 380%;
 	color: inherit;
-	font-family: "Caviar Dreams";
-	border-top: solid 2px;
-	border-bottom: solid 2px;
+	font-family: "Governor";
 }
 	#name:hover{
 		color: inherit;
@@ -34,7 +32,7 @@ body {
 
 #tabs {
 	margin-top: 1%;
-	font-size: 100%;
+	font-size: 120%;
 	text-align: center;
 	font-family: "Stark";
 }
@@ -50,4 +48,9 @@ body {
 #home-content {
 	margin-top: 1%;
 	margin-left: 5%;
+}
+
+#copyright {
+	text-align: center;
+	margin-bottom: 3%;
 }
