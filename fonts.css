@@ -1,13 +1,14 @@
 @font-face {
-   font-family: "Caviar Dreams";
-   src: url('fonts/CaviarDreams.ttf');
+   font-family: "Panama";
+   src: url('fonts/Panama-Light.otf');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
-   font-family: "Stark";
-   src: url('fonts/Stark.OTF');
+   font-family: "Cicle";
+   src: url('fonts/Cicle_Fina.ttf');
    font-weight: normal;
    font-style: normal;
 }
+

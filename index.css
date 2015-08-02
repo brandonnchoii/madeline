@@ -73,26 +73,13 @@ body {
 
 .photo-container {
 	color: white;
-
 }
-
-.description {
-	visibility: hidden;
-	background-color: red;
-}
-	.description:hover {
-		visibility: visible;
-		opacity: 0.8;
-	}
 
 .thumbnail-photo {
-	display: block;
 	width: 100%;
 	height: 16vw;
 }
-	.thumbnail-photo:hover {
-		opacity: 0.4;
-	}
+
 
 
 
@@ -109,13 +96,9 @@ footer {
 	margin-bottom: 0.5%;
 }
 
-#external-link {
+.external-link, .external-link:hover {
 	color: inherit;
 }
-	#external-link:hover{
-		color: inherit;
-	}
-
 
 #copyright {
 }

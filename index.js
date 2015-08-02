@@ -1,12 +1,13 @@
-/* hover effect with text overlay for thumbanils */
-$(".thumbnail-photo").hover(
-	//hover effect
-	function() {
-		$(this).css("opacity: 0.7");
-	},
+//Hover effect on thumbnails
 
-	//unhoever effect
+$(".photo-container").hover(
 	function() {
-		$(this).css("opacity: 1");
+		var d = $(this).find("img").attr("description");
+		$(this).find("img").css({"opacity":"0.4"});
+		$(this).find("img").css({"border":"3px solid #E697A2", "border-opacity":"1"});
+	},
+	function() {
+		$(this).find("img").css({"opacity":"1"});
+		$(this).find("img").css({"border":"none"});
 	}
 );
