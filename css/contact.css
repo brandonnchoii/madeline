@@ -1,0 +1,22 @@
+@import "fonts.css";
+
+#contact-info {
+	text-align: center;
+	margin-top: 20%;
+	font-family: "Dense";
+	font-size: 2.3vw;
+}
+
+#email {
+	color: #ED8284;
+	font-weight: bold;
+}
+
+#back {
+	font-size: 0.75em;
+}
+
+#email:hover, #back:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
