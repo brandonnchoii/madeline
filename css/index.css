@@ -1,6 +1,7 @@
 @import "fonts.css";
 
 body {
+	display: none;
 	background-color: white;
 	font-family: "Cicle";
 	margin: 0;

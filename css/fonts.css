@@ -1,20 +1,20 @@
 @font-face {
    font-family: "Panama";
-   src: url('fonts/Panama-Light.otf');
+   src: url('../fonts/Panama-Light.otf');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
    font-family: "Cicle";
-   src: url('fonts/Cicle_Fina.ttf');
+   src: url('../fonts/Cicle_Fina.ttf');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
    font-family: "Dense";
-   src: url('fonts/Dense-Regular.otf');
+   src: url('../fonts/Dense-Regular.otf');
    font-weight: normal;
    font-style: normal;
 }
