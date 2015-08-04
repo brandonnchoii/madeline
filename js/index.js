@@ -7,12 +7,3 @@ $(".photo-container").hover(
 		$(this).find("img").css({"opacity":"1"});
 	}
 );
-
-
-//fade in effect
-//TODO move to global js file
-function fadeIn(identifier, time) {
-	$(identifier).fadeIn(time)
-}
-
-fadeIn("body", 1500);
