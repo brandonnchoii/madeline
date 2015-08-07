@@ -6,13 +6,13 @@
 }
 
 .photo-row {
-	margin: 0 13% 0 13%;
+	margin: 0 14% 0 14%;
 	line-height: 0;
 }
 
 /* overriding bootstrap paddings for the content thumbnails */
 .photo-row .col-xs-4 {
-	padding: 0.2%;
+	padding: .5%;
 }
 
 .photo-container {
@@ -23,12 +23,13 @@
 }
 
 .overlay {
-	background-color: #ED8284;
+	background-color: black;
 }
 
 .thumbnail-photo {
 	width: 100%;
-	height: 16vw;
+	/*height: 16vw;*/
+	height: auto;
 }
 
 .thumbnail-text {
@@ -44,8 +45,13 @@
 	text-align: center;
 }
 
+.photo-container a, a:hover {
+	color: inherit;
+}
+
 .photo-container:hover .thumbnail-text {
 	display:block;
 }
+
 
 

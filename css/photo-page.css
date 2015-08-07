@@ -1,0 +1,17 @@
+@import "global.css";
+
+#photo-gallery {
+	margin: 2% 12% 2% 12%;
+}
+
+.photo {
+	width: 100%;
+	height: auto;
+	padding: 0.8%;
+}
+
+/* override bootstrap margins & padding */
+.col-xs-12, .col-xs-6, .col-xs-4 {
+	margin: 0;
+	padding: 0;
+}

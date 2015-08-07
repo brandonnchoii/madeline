@@ -1,0 +1,22 @@
+@import "global.css";
+
+#about-me {
+	margin: 3.5% 13% 3.5% 13%;
+	font-size: 1.12vw;
+}
+
+#profile-picture {
+	width: 100%;
+	height: auto;
+}
+
+#tagline {
+	font-weight: bolder;
+	font-size: 1.2em;
+}
+
+#about-me a, a:hover {
+	color:inherit;
+	text-decoration: underline;
+	cursor: pointer;
+}
