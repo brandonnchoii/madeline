@@ -1,0 +1,10 @@
+@import "global.css";
+
+#videos {
+	margin: 3% 10% 3% 10%;
+}
+
+.vid {
+	min-width: 100%;
+	min-height: 35vw;
+}
