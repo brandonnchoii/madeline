@@ -4,7 +4,7 @@ $("#young").click(function() {
 });
 
 $("#old").click(function() {
-	changePhoto("maddie-old.jpg");
+	changePhoto("maddie-current.jpg");
 });
 
 /* fade out & fade in with new photo */
